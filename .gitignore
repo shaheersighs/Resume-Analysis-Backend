@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Python cache & venv
+__pycache__/
+venv/
+
+# Uploaded files (keep placeholder)
+uploads/*
+!uploads/.gitkeep
